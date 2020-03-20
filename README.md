@@ -1,1 +1,4 @@
 # Hexadoku-Solver-and-One-Shot-Learning
+For the first part of this computer architecture project, I used the C programming language to create a program that can solve hexadoku puzzles. Hexadoku is an extension of soduku. What makes hexadoku different is that it is a puzzle involving a 16x16 grid of hexadecimal digits. This program inputs an unsolved hexadoku grid, checks if it is valid, and returns it with the correct digits filled in if it is valid.
+
+For the second part, I again used the C programming language to create an ML/AI algorithm that predicts house prices based on historical data. This program inputs a training data file consisting of various attributes and prices of several homes. It then inputs another file consisting of houses with attributes, but no prices. The algorithm then returns an estimated price for each inputted house based on the attributes that were given.
